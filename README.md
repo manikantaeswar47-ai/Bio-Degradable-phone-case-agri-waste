@@ -1,6 +1,3 @@
-Here is the corrected and properly structured version for **Bio-Degradable Phone Case (Agri Waste) FSD Project**:
-
----
 
 # Bio-Degradable Phone Case (Agri Waste)
 
